@@ -1,0 +1,39 @@
+/* As of February 12/February 13 this page will look like SHIT but dont worry about it lmaoooo*/
+.main-page-head {
+    color: green;
+}
+
+.takoyaki-ingredients {
+    color: pink;
+    background-color: brown;
+    font-size: 30px;
+}
+
+.takoyaki-steps{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.obanyaki.ingredients {
+    background-color: azure;
+    font-size: 14px;
+
+}
+
+.obanyaki.steps {
+    color:teal;
+    font-weight: bold;
+}
+
+.taiyaki.ingredients.list {
+    color: brown;
+    background: black;
+}
+
+.taiyaki.steps.list {
+    background-color: gold;
+    font-size: 30px;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
